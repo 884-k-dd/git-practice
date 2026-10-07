@@ -4,4 +4,4 @@ XXX
 
 新しい機能を追加する
 
-no-fast-mainブランチで変更
+no-fast-conflictブランチで変更
