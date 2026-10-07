@@ -3,3 +3,5 @@
 XXX
 
 新しい機能を追加する
+
+no-fast-forward
