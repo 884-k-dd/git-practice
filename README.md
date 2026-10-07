@@ -3,5 +3,4 @@
 XXX
 
 新しい機能を追加する
-
-no-fast-conflictブランチで変更
+Githubで更新
