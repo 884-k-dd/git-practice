@@ -3,4 +3,4 @@
 XXX
 
 新しい機能を追加する
-Githubで更新
+conflict-remoteで更新（コンフリ）
